@@ -1,0 +1,10 @@
+{
+  "name": "cdp-capture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "基于 Chrome DevTools Protocol 的浏览器 HTTP 流量抓取工具（Edge，JSONL + HTML 双格式记录）",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
